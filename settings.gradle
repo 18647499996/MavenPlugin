@@ -1,0 +1,3 @@
+include ':JitPack'
+include ':app'
+rootProject.name = "MavenPlugin"
