@@ -1,12 +1,7 @@
 plugins {
     id 'com.android.library'
     id 'maven-publish'//用来推送aar到jitpack
-    id 'pl.allegro.tech.build.axion-release' version '1.13.6'//用来发行aar版本的插件
 }
-//def properties = new Properties()
-//properties.load(rootProject.file("local.properties").newInputStream())
-//def gitUser = properties.getProperty("gitUser")
-//def gitPassWord = properties.getProperty("gitPassWord")
 afterEvaluate {
     publishing {
         publications {
@@ -14,29 +9,10 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.18647499996:MavenPlugin'//插件id，格式：com.gitee/github.用户名
                 artifactId = 'jitpack'//插件名称
-                version = 'v1.0.6'//版本号
+                version = 'v1.0.7'//版本号
                 //引用使用格式：implementation 'com.gitee.xiaweifeng:JitPackTest11:1.0'
             }
         }
-        //jitpack推送授权
-        repositories {
-            maven {
-                name('jitpack')
-                url "https://jitpack.io"
-                credentials {
-                    username gitUser.toString()
-                    password gitPassWord.toString()
-                }
-            }
-        }
-
-    }
-}
-//release插件，https授权
-scmVersion{
-    repository{
-        customUsername = gitUser.toString()
-        customPassword = gitPassWord.toString()
     }
 }
 
@@ -48,7 +24,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1
-        versionName "1.0"
+        versionName versionName.toString()
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
