@@ -29,7 +29,7 @@ public class JitPackUtils {
     /**
      * 初始化
      */
-    private void initJitPack(){
-        Log.d("tag","第一个插件项目");
+    public void initJitPack(String maven){
+        Log.d("JitPackUtils：",maven);
     }
 }
