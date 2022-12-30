@@ -7,8 +7,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.18647499996:MavenPlugin'//插件id，格式：com.gitee/github.用户名
-                artifactId = 'jitpack'//插件名称
+                groupId = 'com.github.18647499996'//插件id，格式：com.gitee/github.用户名
+                artifactId = 'MavenPlugin'//插件名称
                 version = 'v1.0.7'//版本号
                 //引用使用格式：implementation 'com.gitee.xiaweifeng:JitPackTest11:1.0'
             }
