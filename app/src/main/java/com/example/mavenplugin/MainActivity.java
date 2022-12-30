@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        JitPackUtils.getInstance().initJitPack("居然可以引用Remote");
-        RemoteMavenUtils.getInstance().getMaven();
+        RemoteMavenUtils.getInstance().getMaven("居然可以引用自己");
     }
 }

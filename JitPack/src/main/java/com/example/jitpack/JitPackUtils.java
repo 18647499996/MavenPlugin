@@ -32,6 +32,6 @@ public class JitPackUtils {
      * 初始化
      */
     public void initJitPack(String maven){
-        RemoteMavenUtils.getInstance().getMaven(maven);
+        Log.d("显示log：",maven);
     }
 }
