@@ -75,7 +75,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Gradle.MavenPlugin:JitPack [publishToMavenLocal]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -213,22 +213,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1672364467151">
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1672364951692">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.25.1920.957@0.25.1920.957" timestamp="1672364467151" />
-    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1672364467151">
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.25.1920.957@0.25.1920.957" timestamp="1672364951692" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1672364951692">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.center/0.25.1920.957@0.25.1920.957" timestamp="1672364467151" />
-    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1672364467151">
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.25.1920.957@0.25.1920.957" timestamp="1672364951692" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1672364951692">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.left/0.25.1920.957@0.25.1920.957" timestamp="1672364467151" />
-    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1672364467151">
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.25.1920.957@0.25.1920.957" timestamp="1672364951692" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1672364951692">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.right/0.25.1920.957@0.25.1920.957" timestamp="1672364467151" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.25.1920.957@0.25.1920.957" timestamp="1672364951692" />
     <state x="707" y="229" key="RollbackChangesDialog" timestamp="1672127715802">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
