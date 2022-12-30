@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="791f4ba2-72e2-436b-a268-d787ca320dad" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/JitPack/src/main/java/com/example/jitpack/JitPackUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JitPack" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2JUHCsRY2tGBOyhkzhUlGQ7qqk1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
