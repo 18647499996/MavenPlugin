@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="791f4ba2-72e2-436b-a268-d787ca320dad" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/JitPack/src/main/java/com/example/jitpack/JitPackUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
   </component>
-  <component name="RunManager" selected="Gradle.MavenPlugin:JitPack [publishReleasePublicationToMavenLocal]">
+  <component name="RunManager" selected="Gradle.MavenPlugin:JitPack [publish]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -221,22 +221,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1672367235407">
+    <state x="683" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1672368219548">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.25.1920.957@0.25.1920.957" timestamp="1672367235407" />
-    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1672367235407">
+    <state x="683" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.957@0.25.1920.957" timestamp="1672368219548" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1672368158045">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.center/0.25.1920.957@0.25.1920.957" timestamp="1672367235407" />
-    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1672367235407">
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.25.1920.957@0.25.1920.957" timestamp="1672368158045" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1672368158045">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.left/0.25.1920.957@0.25.1920.957" timestamp="1672367235407" />
-    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1672367235407">
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.25.1920.957@0.25.1920.957" timestamp="1672368158045" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1672368158043">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.right/0.25.1920.957@0.25.1920.957" timestamp="1672367235407" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.25.1920.957@0.25.1920.957" timestamp="1672368158043" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1672368158045">
+      <screen x="0" y="25" width="1920" height="957" />
+    </state>
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.25.1920.957@0.25.1920.957" timestamp="1672368158045" />
     <state x="707" y="229" key="RollbackChangesDialog" timestamp="1672127715802">
       <screen x="0" y="25" width="1920" height="957" />
     </state>
