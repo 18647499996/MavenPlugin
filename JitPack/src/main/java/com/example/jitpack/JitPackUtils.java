@@ -2,6 +2,8 @@ package com.example.jitpack;
 
 import android.util.Log;
 
+import com.example.remote_maven.RemoteMavenUtils;
+
 /**
  * Description：
  *
@@ -30,6 +32,6 @@ public class JitPackUtils {
      * 初始化
      */
     public void initJitPack(String maven){
-        Log.d("JitPackUtils：",maven);
+        RemoteMavenUtils.getInstance().getMaven(maven);
     }
 }
